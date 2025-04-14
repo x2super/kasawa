@@ -5,7 +5,7 @@ with open("./README.md", "r") as f:
 
 setup(
     name="kasawa",
-    version="0.0.1",
+    version="0.0.2",
     description="I Make module this for using for easy to work",
     packages=find_packages(),
     long_description=long_description,
