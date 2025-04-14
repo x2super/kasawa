@@ -1,3 +1,3 @@
-import kasawa.test
+import kasawa
+from kasawa import topup
 
-kasawa.test.hello()
