@@ -12,4 +12,4 @@ def topup(phone, vouch):
     }
 
     r = scraper.post("https://api.kasawa.pro/api/wallet/topup", json=payload)
-    return r.json()
+    return r
