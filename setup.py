@@ -11,7 +11,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/x2super/kasawa",
-    author="Kasawa",
+    author="x2super",
     author_email="kasawaonecap@gmail.com",
     license="MIT",
     classifiers=[
