@@ -5,7 +5,7 @@ with open("./README.md", "r") as f:
 
 setup(
     name="kasawa",
-    version="0.0.2",
+    version="0.0.3",
     description="I Make module this for using for easy to work",
     packages=find_packages(),
     long_description=long_description,
@@ -21,7 +21,8 @@ setup(
     ],
     install_requires=[
         "requests",
-        "cloudscraper"
+        "cloudscraper",
+        "pystyle"
     ],
     python_requires=">=3.10",
 )
