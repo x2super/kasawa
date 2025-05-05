@@ -22,7 +22,7 @@ brew install git
 # git install [work]
 pip install git+https://github.com/x2super/kasawa.git
 
-#pypi install [not work]
+#pypi install [work]
 pip install kasawa
 ```
 
